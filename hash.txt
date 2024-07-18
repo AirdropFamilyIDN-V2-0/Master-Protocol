@@ -1,2 +1,2 @@
 user=%7B%22xxxxxxxxxxxxxxxxxxxxxxxxxxx_name%22%3A%2xxxxxxxxxusername%22%3A%22kxxxxxxxxxxxxx22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-5563xxxxxxxxxxxx8&chat_type=sender&auth_datexxxxxxxxxx=3b134e0bdd10xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-user=%7B%22xxxxxxxxxxxxxxxxxxxxxxxxxxx_name%22%3A%2xxxxxxx2%2C%22username%22%3A%22kxxxxxxxxxxxxx22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-5563xxxxxxxxxxxx8&chat_type=sender&auth_datexxxxxxxxxx=3b134e0bdd10xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
