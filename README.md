@@ -1,5 +1,5 @@
 # Master Protocol v1.0 Bot
-![image](https://github.com/user-attachments/assets/6b68cba6-db83-4ef0-b243-bb7dd3c3dfbe)
+![image](https://github.com/user-attachments/assets/4233a156-5bce-4aee-8e90-2cbc8ff00e74)
 
 ## Features
 - Auto Start Game
@@ -12,8 +12,7 @@
 - Buka Tele Gamenya
 - ```sh
   /start
- ```
-- [Join Telegram Channel dulu. kalo gak, gakan bisa start game](https://t.me/MasterProtocol_News)
+- [Join Telegram Channel](https://t.me/MasterProtocol_News) dulu. kalo gak, gakan bisa start game
 - Launch Mini App ( WAJIB DARI CHAT DENGAN BOT TELE NYA )
 ![image](https://github.com/user-attachments/assets/f898b8d8-b002-425b-a81b-76b25f86e258)
 - Devtools/Inspect Element
